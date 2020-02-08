@@ -1,0 +1,66 @@
+#: ./ContentType.php:8
+msgid "Status update"
+msgstr "Statusan ĝisdatigon"
+
+#: ./ContentType.php:9
+msgid "Status updates"
+msgstr "Gisdatigoj pri stato"
+# diacritics trip up other parts of the system
+
+#: ./Pages/Delete.php:29
+msgid "Delete %s"
+msgstr "Forigi %s"
+
+#: ./Pages/Delete.php:43
+msgid "You don't have permission to perform this task."
+msgstr "Vi ne havas permeson plenumi ĉi tiun taskon."
+
+#: ./Pages/Delete.php:48
+msgid "Your status update was deleted."
+msgstr "Via statusa ĝisdatigo estis forigita."
+
+#: ./Pages/Delete.php:50
+msgid "We couldn't delete %s."
+msgstr "Ni ne povis forigi %s."
+
+#: ./Pages/Edit.php:37
+msgid "What are you up to?"
+msgstr "Kion vi faras?"
+# What are you doing?
+
+#: ./Pages/Edit.php:39
+msgid "Edit status update"
+msgstr "Redakti ĝisdatigon pri stato"
+
+#: ./templates/default/entity/Status/edit.tpl.php:30
+msgid "New Status Update"
+msgstr "Nova Stato-Ĝisdatigo"
+
+#: ./templates/default/entity/Status/edit.tpl.php:32
+msgid "Edit Status Update"
+msgstr "Redakti Ĝisdatigo pri Statuso"
+
+#: ./templates/default/entity/Status/edit.tpl.php:48
+msgid "Share a quick note or comment. You can use links and #hashtags."
+msgstr "Kunhavigu rapidan noton aŭ komenton. Vi povas uzi ligojn kaj #ŝhtagojn."
+
+#: ./templates/default/entity/Status/edit.tpl.php:82
+msgid "Reply to a site"
+msgstr "Respondu al retejo"
+
+#: ./templates/default/entity/Status/edit.tpl.php:93
+msgid "Add the URL that you're replying to"
+msgstr "Aldonu la URL al kiu vi respondas"
+
+#: ./templates/default/entity/Status/edit.tpl.php:97
+msgid "Remove URL"
+msgstr "Forigi URLon"
+
+#: ./templates/default/entity/Status/edit.tpl.php:114
+msgid "Cancel"
+msgstr "Nuligi"
+
+#: ./templates/default/entity/Status/edit.tpl.php:115
+msgid "Publish"
+msgstr "Publikigi"
+
