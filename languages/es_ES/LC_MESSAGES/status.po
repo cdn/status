@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: es_ES\n"
+
+#: ./ContentType.php:8
+msgid "Status update"
+msgstr "Actualización de estado"
+
+#: ./ContentType.php:9
+msgid "Status updates"
+msgstr "Estados"
+
+#: ./Pages/Delete.php:29
+msgid "Delete %s"
+msgstr "Eliminar %s"
+
+#: ./Pages/Delete.php:43
+msgid "You don't have permission to perform this task."
+msgstr "No tiene permiso para realizar esta tarea."
+
+#: ./Pages/Delete.php:48
+msgid "Your status update was deleted."
+msgstr "Se ha eliminado la actualización de estado."
+
+#: ./Pages/Delete.php:50
+msgid "We couldn't delete %s."
+msgstr "No pudimos eliminar %s"
+
+#: ./Pages/Edit.php:37
+msgid "What are you up to?"
+msgstr "¿Qué haces?"
+
+#: ./Pages/Edit.php:39
+msgid "Edit status update"
+msgstr "Editar actualización de estado"
+
+#: ./templates/default/entity/Status/edit.tpl.php:30
+msgid "New Status Update"
+msgstr "Nueva actualización de estado"
+
+#: ./templates/default/entity/Status/edit.tpl.php:32
+msgid "Edit Status Update"
+msgstr "Editar actualización de estado"
+
+#: ./templates/default/entity/Status/edit.tpl.php:48
+msgid "Share a quick note or comment. You can use links and #hashtags."
+msgstr "Comparte una breve nota o comentario. Puede utilizar enlaces y #hashtags."
+
+#: ./templates/default/entity/Status/edit.tpl.php:82
+msgid "Reply to a site"
+msgstr "Responder a un sitio"
+
+#: ./templates/default/entity/Status/edit.tpl.php:93
+msgid "Add the URL that you're replying to"
+msgstr "Añade la URL a la que respondes"
+
+#: ./templates/default/entity/Status/edit.tpl.php:97
+msgid "Remove URL"
+msgstr "Eliminar URL"
+
+#: ./templates/default/entity/Status/edit.tpl.php:114
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ./templates/default/entity/Status/edit.tpl.php:115
+msgid "Publish"
+msgstr "Publicar"
