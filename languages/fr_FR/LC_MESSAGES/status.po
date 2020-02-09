@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Nano 2.7.4+Bing Translator+Atom\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr_FR\n"
+
+#: ./ContentType.php:8
+msgid "Status update"
+msgstr "Màj de votre statut"
+
+#: ./ContentType.php:9
+msgid "Status updates"
+msgstr "Statuts"
+
+#: ./Pages/Delete.php:29
+msgid "Delete %s"
+msgstr "Supprimer %s"
+
+#: ./Pages/Delete.php:43
+msgid "You don't have permission to perform this task."
+msgstr "Vous n’avez pas la permission d’effectuer cette tâche."
+
+#: ./Pages/Delete.php:48
+msgid "Your status update was deleted."
+msgstr "Votre statut a été supprimé."
+
+#: ./Pages/Delete.php:50
+msgid "We couldn't delete %s."
+msgstr "On n’a pas pu supprimer %s."
+
+#: ./Pages/Edit.php:37
+msgid "What are you up to?"
+msgstr "Qu’est-ce que tu fais?"
+
+#: ./Pages/Edit.php:39
+msgid "Edit status update"
+msgstr "Modifier le statut"
+
+#: ./templates/default/entity/Status/edit.tpl.php:30
+msgid "New Status Update"
+msgstr "Nouveau statut"
+
+#: ./templates/default/entity/Status/edit.tpl.php:32
+msgid "Edit Status Update"
+msgstr "Modifier le statut"
+
+#: ./templates/default/entity/Status/edit.tpl.php:48
+msgid "Share a quick note or comment. You can use links and #hashtags."
+msgstr ""
+"Partagez une note ou un commentaire rapide. Vous pouvez utiliser des "
+"liens et des #hashtags."
+
+#: ./templates/default/entity/Status/edit.tpl.php:82
+msgid "Reply to a site"
+msgstr "Répondre à un site"
+
+#: ./templates/default/entity/Status/edit.tpl.php:93
+msgid "Add the URL that you're replying to"
+msgstr "Ajoutez l’URL à laquelle vous répondez"
+
+#: ./templates/default/entity/Status/edit.tpl.php:97
+msgid "Remove URL"
+msgstr "Supprimer l’URL"
+
+#: ./templates/default/entity/Status/edit.tpl.php:114
+msgid "Cancel"
+msgstr "Annuler"
+
+#: ./templates/default/entity/Status/edit.tpl.php:115
+msgid "Publish"
+msgstr "Publier"
