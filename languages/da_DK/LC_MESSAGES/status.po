@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: $EDITOR\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: da_DK\n"
+
+#: ./ContentType.php:8
+msgid "Status update"
+msgstr "Statusopdatering"
+
+#: ./ContentType.php:9
+msgid "Status updates"
+msgstr "Statusopdateringer"
+
+#: ./Pages/Delete.php:29
+msgid "Delete %s"
+msgstr "Slet %s"
+
+#: ./Pages/Delete.php:43
+msgid "You don't have permission to perform this task."
+msgstr "Du har ikke tilladelse til at udføre denne opgave."
+
+#: ./Pages/Delete.php:48
+msgid "Your status update was deleted."
+msgstr "Statusopdateringen blev slettet."
+
+#: ./Pages/Delete.php:50
+msgid "We couldn't delete %s."
+msgstr "Vi kunne ikke slette %s."
+
+#: ./Pages/Edit.php:37
+msgid "What are you up to?"
+msgstr "Hvad har du gang i?"
+
+#: ./Pages/Edit.php:39
+msgid "Edit status update"
+msgstr "Rediger statusopdatering"
+
+#: ./templates/default/entity/Status/edit.tpl.php:30
+msgid "New Status Update"
+msgstr "Ny statusopdatering"
+
+#: ./templates/default/entity/Status/edit.tpl.php:32
+msgid "Edit Status Update"
+msgstr "Rediger statusopdatering"
+
+#: ./templates/default/entity/Status/edit.tpl.php:48
+msgid "Share a quick note or comment. You can use links and #hashtags."
+msgstr "Del en hurtig note eller kommentar. Du kan bruge links og #hashtags."
+
+#: ./templates/default/entity/Status/edit.tpl.php:82
+msgid "Reply to a site"
+msgstr "Svar på et websted"
+
+#: ./templates/default/entity/Status/edit.tpl.php:93
+msgid "Add the URL that you're replying to"
+msgstr "Tilføj den URL-adresse, du besvarer"
+
+#: ./templates/default/entity/Status/edit.tpl.php:97
+msgid "Remove URL"
+msgstr "Fjern URL-adresse"
+
+#: ./templates/default/entity/Status/edit.tpl.php:114
+msgid "Cancel"
+msgstr "Annullere"
+
+#: ./templates/default/entity/Status/edit.tpl.php:115
+msgid "Publish"
+msgstr "Udgive"
